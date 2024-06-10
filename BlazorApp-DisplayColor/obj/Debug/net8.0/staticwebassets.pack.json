@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\_dev\\TEST-WebColorService-FINAL\\BlazorApp-DisplayColor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-DisplayColor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp-DisplayColor.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\_dev\\TEST-WebColorService-FINAL\\BlazorApp-DisplayColor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "c:\\_dev\\TEST-WebColorService-FINAL\\BlazorApp-DisplayColor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\_dev\\TEST-WebColorService-FINAL\\BlazorApp-DisplayColor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\_dev\\TEST-WebColorService-FINAL\\BlazorApp-DisplayColor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp-DisplayColor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp-DisplayColor.props",
+      "PackagePath": "build\\BlazorApp-DisplayColor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp-DisplayColor.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp-DisplayColor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp-DisplayColor.props",
+      "PackagePath": "buildTransitive\\BlazorApp-DisplayColor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
